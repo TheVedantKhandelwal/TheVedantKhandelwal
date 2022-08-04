@@ -5,6 +5,7 @@ I'm Vedant Khandelwal from India, an Aspiring SDE, Programming, Developing new s
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVedantKhandelwal&show_icons=true)
 
 - 🔭 This page is under progress :/
+ <img src="https://profile-counter.glitch.me/TheVedantKhandelwal/count.svg" />
 
 
 
