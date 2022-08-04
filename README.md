@@ -4,6 +4,8 @@ I'm Vedant Khandelwal from India, an Aspiring SDE, Programming, Developing new s
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVedantKhandelwal&show_icons=true)
+
 - 🔭 I’m currently working on this page. 
 
 
