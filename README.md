@@ -9,9 +9,9 @@ Programming, Developing new software from scratch, Linux and the hacker communit
 ## Get In Touch☕
 -Your future buddy on [Instagram](https://instagram.com/TheVedantKhandelwal)
 
--Your future Employee on [Linkedin](https://in.linkedin.com/in/vedant-khandelwal-067aa9b5?trk=people-guest_people_search-card)
-
 -Your future life saviour on [Github](https://Github.com/TheVedantKhandelwal) (You're already here)
+
+-Your future Employee on [Linkedin](https://in.linkedin.com/in/vedant-khandelwal-067aa9b5?trk=people-guest_people_search-card)
 
 - 🔭 This page is under progress :/
  
