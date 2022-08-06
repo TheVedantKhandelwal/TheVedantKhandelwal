@@ -4,7 +4,7 @@ I'm Vedant Khandelwal from India, an Aspiring SDE.
 
 Programming, Developing new software from scratch, Linux and the hacker community fascinate me, Just finished High School and wish to contribute to the Dev World!
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVedantKhandelwal&include_all_commits&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVedantKhandelwal&include_all_commits)](https://github.com/TheVedantKhandelwal/github-readme-stats)
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVedantKhandelwal&include_all_commits=true&count_private=true&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVedantKhandelwal&count_private=true&include_all_commits=true)](https://github.com/TheVedantKhandelwal/github-readme-stats)
 
 ## Get In Touch☕
 -Your future buddy on [Instagram](https://instagram.com/TheVedantKhandelwal)
