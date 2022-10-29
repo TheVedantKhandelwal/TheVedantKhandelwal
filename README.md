@@ -6,6 +6,8 @@ Programming, Developing new software from scratch, Linux and the hacker communit
 
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVedantKhandelwal&include_all_commits=true&count_private=true&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVedantKhandelwal&count_private=true&include_all_commits=true)](https://github.com/TheVedantKhandelwal/github-readme-stats)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/coolved1543.png" alt="TryHackMe">
+
 ## Get In Touch☕
 -Your future buddy on [Instagram](https://instagram.com/TheVedantKhandelwal)
 
