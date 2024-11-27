@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4.5%">
 ### | Java | Python | HTML | JS | CSS | CyberSecurity Enthusiast |
-I'm Vedant Khandelwal from India, an Aspiring SDE. 
+I'm Vedant Khandelwal from India, an Aspiring Malware Analyst. 
 
 Programming, Developing new software from scratch, Linux and the hacker community fascinate me, Just finished High School and wish to contribute to the Dev World!
 
