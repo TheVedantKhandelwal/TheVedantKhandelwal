@@ -6,37 +6,31 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-khandelwal-067aa9b5)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TheVedantKhandelwal)
-[![Portfolio](https://img.shields.io/badge/kontrax.in-4c1d95?style=flat&logo=googlechrome&logoColor=white)](https://kontrax.in)
 
 </div>
 
 ---
 
-### What I'm building
-
-**[Kontrax](https://kontrax.in)** — WhatsApp-first B2B payment collection for Indian MSMEs. AI-powered invoice creation in Hinglish, automated follow-ups, payment prediction, and legal pressure automation under MSMED Act. 36K+ lines of code, 92 features, solo-built.
-
 ### What I've built
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
-| **Kontrax** | FastAPI, Next.js 15, PostgreSQL, Redis, Ollama | WhatsApp bot creates invoices from "website bana diya 45k", AI verifies payment screenshots, 5-phase escalation engine, Section 43B(h) tax pressure automation |
-| **AIAUditor** | Python, Multi-Agent Systems | Enterprise AI governance — autonomous audit agents that evaluate ML models for bias, drift, and compliance |
-| **Ethaum** | TypeScript, Next.js | AI-powered SaaS marketplace with Product Hunt + G2 style discovery |
-| **Zeroclaw** | Rust | Autonomous AI assistant infrastructure — fast, small, self-contained |
-| **Xenode** | C++ | Cross-platform 2D/3D game engine from scratch |
-| **Lost-Found Chain** | TypeScript | Blockchain-based lost and found verification system |
+| **[Ethaum](https://github.com/TheVedantKhandelwal/Ethaum)** | TypeScript, Next.js | AI-powered SaaS marketplace with Product Hunt + G2 style discovery |
+| **[Xenode](https://github.com/TheVedantKhandelwal/Xenode)** | C++ | Cross-platform 2D/3D game engine from scratch |
+| **[Zeroclaw](https://github.com/TheVedantKhandelwal/zeroclaw)** | Rust | Fast, small, fully autonomous AI assistant infrastructure |
+| **[Deepfake-Detect](https://github.com/TheVedantKhandelwal/Deepfake-Detect)** | Python | Deepfake detection models |
+| **[AutoReg-Courses](https://github.com/TheVedantKhandelwal/AutoReg-Courses)** | Python | Automated course registration bot |
+| **+ several private projects** | Python, TypeScript, FastAPI, Next.js | B2B SaaS, AI agents, fintech |
 
 ### Stack
 
 ```
 Backend      Python, FastAPI, Rust, C++, Java
 Frontend     TypeScript, Next.js, React, Tailwind
-Data         PostgreSQL, Redis, pgvector, SQLAlchemy, Alembic
-AI/ML        Ollama (Gemma 3), LangChain, Multi-Agent Systems, Vision Models
-Infra        Docker, Nginx, OCI, Terraform, GitHub Actions
-Payments     Setu UPI, NACH, Razorpay, WhatsApp Business API
-Security     RLS, JWT, HMAC webhooks, AES-256 encryption
+Data         PostgreSQL, Redis, SQLAlchemy, Alembic
+AI/ML        Ollama, LangChain, Multi-Agent Systems, Vision Models
+Infra        Docker, Nginx, Terraform, GitHub Actions
+Security     Pentesting, RLS, JWT, HMAC, AES-256
 ```
 
 ### Numbers
@@ -60,5 +54,5 @@ Security     RLS, JWT, HMAC webhooks, AES-256 encryption
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TheVedantKhandelwal&style=flat-square&color=4c1d95" alt="Profile views">
 
-*Currently shipping Kontrax. Open to conversations about B2B fintech, AI agents, and building for Indian SMBs.*
+*Building in stealth. Open to conversations about AI agents, fintech, and systems programming.*
 </div>
