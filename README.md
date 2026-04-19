@@ -11,7 +11,11 @@
 
 ---
 
-### What I've built
+### Currently
+
+Building a B2B fintech platform (private) — WhatsApp-native payment infrastructure for Indian SMBs. AI-powered, full-stack, solo-built.
+
+### Open Source
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
@@ -20,7 +24,15 @@
 | **[Zeroclaw](https://github.com/TheVedantKhandelwal/zeroclaw)** | Rust | Fast, small, fully autonomous AI assistant infrastructure |
 | **[Deepfake-Detect](https://github.com/TheVedantKhandelwal/Deepfake-Detect)** | Python | Deepfake detection models |
 | **[AutoReg-Courses](https://github.com/TheVedantKhandelwal/AutoReg-Courses)** | Python | Automated course registration bot |
-| **+ several private projects** | Python, TypeScript, FastAPI, Next.js | B2B SaaS, AI agents, fintech |
+
+### Private / Stealth
+
+| Domain | What I'm working with |
+|--------|----------------------|
+| **B2B Fintech** | UPI deeplinks, NACH auto-debit, payment reconciliation, invoice factoring |
+| **AI Agents** | Multi-agent orchestration, LLM-powered document parsing, vision models for payment verification |
+| **Collection Automation** | Automated escalation engines, legal compliance (MSMED Act, Section 43B(h)), payment prediction |
+| **Enterprise SaaS** | Multi-tenant RLS, webhook architectures, real-time event processing |
 
 ### Stack
 
@@ -30,6 +42,7 @@ Frontend     TypeScript, Next.js, React, Tailwind
 Data         PostgreSQL, Redis, SQLAlchemy, Alembic
 AI/ML        Ollama, LangChain, Multi-Agent Systems, Vision Models
 Infra        Docker, Nginx, Terraform, GitHub Actions
+Payments     UPI, NACH, Payment Gateways, Webhook Reconciliation
 Security     Pentesting, RLS, JWT, HMAC, AES-256
 ```
 
@@ -54,5 +67,5 @@ Security     Pentesting, RLS, JWT, HMAC, AES-256
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TheVedantKhandelwal&style=flat-square&color=4c1d95" alt="Profile views">
 
-*Building in stealth. Open to conversations about AI agents, fintech, and systems programming.*
+*Open to conversations about B2B fintech, AI agents, and building for Indian markets.*
 </div>
